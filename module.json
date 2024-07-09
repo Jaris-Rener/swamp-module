@@ -1,0 +1,30 @@
+{
+  "id": "swamp-module",
+  "title": "Swamp Module",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "My swamp module",
+  "authors": [
+    {
+      "name": "Jaris",
+      "flags": {}
+    }
+  ],
+  "url": "jarisrener.com",
+  "packs": [
+    {
+      "name": "swamp-scenes",
+      "label": "Swamp Scenes",
+      "path": "packs/swamp-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}

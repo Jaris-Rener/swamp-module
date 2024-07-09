@@ -1,0 +1,7 @@
+2024/07/09-12:40:23.003 cf0 Recovering log #4
+2024/07/09-12:40:23.007 cf0 Delete type=0 #4
+2024/07/09-12:40:23.008 cf0 Delete type=3 #2
+2024/07/09-12:42:37.490 2adc Level-0 table #9: started
+2024/07/09-12:42:37.499 2adc Level-0 table #9: 1465 bytes OK
+2024/07/09-12:42:37.501 2adc Delete type=0 #7
+2024/07/09-12:42:37.507 2adc Manual compaction at level-0 from '!folders!JwEfBPpfZHHhEGgN' @ 72057594037927935 : 1 .. '!scenes!dEtZJkfFEsin8hAI' @ 0 : 0; will stop at (end)
